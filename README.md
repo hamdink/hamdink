@@ -64,43 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamdink&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdink&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=hamdink&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamdink&theme=flat&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🧠 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</p>
-
----
-
-## 🧩 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hamdink&limit=5&combine_all_yearly_contributions=true" />
-</p>
-
----
-
 ## 🚀 What I’m working on
 
 - Real-time mobile experiences (chat/feeds)
